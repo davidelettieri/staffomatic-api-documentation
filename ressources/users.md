@@ -161,7 +161,7 @@ Lock user
 Unlock user
 --------------
 
-* `PUT /locations/64/users/83959.json` will lock the user
+* `PUT /locations/64/users/83959.json` will unlock the user
 
 ```json
 {
